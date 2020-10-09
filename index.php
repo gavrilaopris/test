@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Laborator 2</title>
+  <title>Laborator 2 </title>
 </head>
 
 <body class="container mx-auto my-5 grid grid-cols-2">
